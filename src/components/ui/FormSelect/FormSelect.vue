@@ -51,7 +51,7 @@ defineProps({
 defineEmits(['update:modelValue']);
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .form_group {
   margin-bottom: 1rem;
 
