@@ -86,6 +86,7 @@ const handleSubmit = () => {
 
 const handleReset = () => {
   store.dispatch('clearForm');
+  formData.value = {}
 };
 </script>
 
